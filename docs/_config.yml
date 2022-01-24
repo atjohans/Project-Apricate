@@ -27,7 +27,7 @@ github_username:  atjohans
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
