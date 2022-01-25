@@ -16,11 +16,10 @@
 title: Project Homunculi 
 email: atjohans@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  EECS 499 Directed Study Project 
-domain: atjohans.github.io
-baseurl: /
-url: https://atjohans.github.io
-github_username: atjohans
+  EECS499 Directed Study Research at the University of Michigan 
+baseurl: /Project-Homunculi
+url: http://atjohans.github.io 
+github_username:  atjohans
 
 # Build settings
 markdown: kramdown
