@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   EECS499 Directed Study Research at the University of Michigan 
 domain: atjohans.github.io
 baseurl: /Project-Homunculi
-url: http://atjohans.github.io 
+url: https://atjohans.github.io 
 github_username:  atjohans
 
 # Build settings
