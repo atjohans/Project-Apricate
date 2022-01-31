@@ -1,4 +1,5 @@
 <h1> Market Research for the Video Game Industry W.R.T. Accessibility </h1>
+<h2> Identifying relevant projects, industry products and stakeholders</h2>
 <p>
   The US entertainment industry accounted for over 275 billion dollars of the US economy in 2021 (statista.com). The video game industry itself has drawn in around 80 billion dollars in 2021 and 2021 (ibisworld.com). Some of the largest development companies in this industry include Sony, Nintendo, Microsoft, Ubisoft and Activision Blizzard (newzoo.com). Sony alone accounted for nearly 25 billion dollars in revenue in 2020/2021, followed by Nintendo with 16 billion, Blizzard with 8 billion, Xbox Game Studios with 2.7 and Ubisoft with 2.23 billion (thexboxhub.com). 
     
