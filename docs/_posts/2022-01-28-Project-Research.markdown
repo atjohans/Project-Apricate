@@ -27,9 +27,8 @@ A Brief Summary of Selected Documents
 </ul>
 
 <h2>Other Relevant Research</h2>
-<ul>
 
-
+<ol>
 <li>
   <a href="https://link.springer.com/article/10.1007/s10209-010-0189-5">Game accessibility: a survey</a>
 </li>
@@ -138,4 +137,4 @@ A Brief Summary of Selected Documents
     <li>
   <a href="https://benkellysoftware.github.io/files/accessibility-guidelines.pdf">Application of Software Accessibility Guidelines to Game User Interfaces</a>
 </li>
-</ul>
+</ol>
