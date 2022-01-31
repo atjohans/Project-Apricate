@@ -1,4 +1,5 @@
 <h1> Market Research for the Video Game Industry W.R.T. Accessibility </h1>
+<br>
 <h2> 
   Identifying relevant projects, industry products and stakeholders
 </h2>
@@ -11,6 +12,4 @@ Despite the size and wealth of these development companies, the products they pr
 The aforementioned products are all AAA games produced with the goal of reaching the largest number of players possible. Other projects, such as Heartbeat: Regret and Racing in the Dark - both of which were produced by much smaller teams - exist on the market and attempt to provide developers with insight into what a developer must consider when making games accessible. These games differ from the previous AAA games mentioned as they specifically target the demographic of those with severe visual impairments. Both games explore how critical game information - that is typically portrayed to a user through visual cues - can be delivered through haptic or auditory cues to the player. Racing in the Dark places a large focus on integrating a number of different cues together in a way that reduces cognitive load on the user, while Heartbeat: Regret focuses on creating a gaming experience that portrays the same amount of information to users, regardless of whether or not they use the visual component of the game. 
 <br>    
 This project hopes to build on the techniques implemented in the works mentioned above, and seeks to provide a framework that allows developers to understand what questions and considerations need to be addressed when designing for accessibility. 
-
-    (<a href = "https://journals.sagepub.com/doi/full/10.1177/1555412020971500?casa_token=ANea-RrryfUAAAAA%3AanyC7cr_1RR2llgV9vGIPtvV2OwApG6VE9vKzVN6DqWoZBaG4V6TEsSTAEJBrIETKhRH6suq67-c">Brown and Anderson</a>) 
 
