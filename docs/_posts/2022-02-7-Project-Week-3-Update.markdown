@@ -15,7 +15,7 @@ This week’s work involved assessing the OpenRA engine as a candidate for this 
     Play the base game
   </li>
     The purpose of playing the base game was twofold: 
-  <ol type="a">
+  <ol>
 <li>
   Gain familiarity with with the core game and its overall feel and mechanics 
     </li>
@@ -26,7 +26,6 @@ This week’s work involved assessing the OpenRA engine as a candidate for this 
 <li>
   Analyze the OpenRA Mod SDK 
 </li>
-  
   In analyzing the OpenRA Mod SDK I was primarily interested in a few things: 
   <ol>
     <li>Is the SDK still supported and updated relatively regularly </li>
