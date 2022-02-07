@@ -2,7 +2,10 @@ Given the time restraints associated with this project, I have opted not to buil
 
 OpenRA is an open source project that seeks to recreate popular classic RTS games such as Command & Conquer. The screenshots below are taken from the project's recreation of Red Alert. From the screenshots, we can see that accessibility was not a primary consideration for the project. Aside from basic key remapping options, the game offers no accessibility features. This is common for all of the OpenRA engines core game mods (RA,CNC,D2K). 
 
-<img tyle="width:100px" src="https://github.com/atjohans/Project-Apricate/blob/gh-pages/assets/images/image1.png?raw=true"></img>
+<img style="width:100px" src="https://github.com/atjohans/Project-Apricate/blob/gh-pages/assets/images/image1.png?raw=true"></img>
+<img style="width:100px" src="https://github.com/atjohans/Project-Apricate/blob/gh-pages/assets/images/image2.png?raw=true"></img>
+<img style="width:100px" src="https://github.com/atjohans/Project-Apricate/blob/gh-pages/assets/images/image3.png?raw=true"></img>
+<img style="width:100px" src="https://github.com/atjohans/Project-Apricate/blob/gh-pages/assets/images/image4.png?raw=true"></img>
 
 
 This week’s work involved assessing the OpenRA engine as a candidate for this project’s goals and experimentation. There were two primary tasks for this week:
