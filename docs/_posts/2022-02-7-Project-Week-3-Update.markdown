@@ -15,15 +15,24 @@ This week’s work involved assessing the OpenRA engine as a candidate for this 
     Play the base game
   </li>
     The purpose of playing the base game was twofold: 
-Gain familiarity with with the core game and its overall feel and mechanics 
-Identify some of the game-critical information and how it is communicated to the player
+  <ol type="a">
+<li>
+  Gain familiarity with with the core game and its overall feel and mechanics 
+    </li>
+    <li>
+  Identify some of the game-critical information and how it is communicated to the player
+    </li>
+  </ol>
 <li>
   Analyze the OpenRA Mod SDK 
 </li>
+  
   In analyzing the OpenRA Mod SDK I was primarily interested in a few things: 
-Is the SDK still supported and updated relatively regularly 
-Does the SDK provide most of the tools necessary to build and run the game with minimal setup effort 
-Does the SDK provide the control necessary to restructure how game-critical information is delivered to the player
+  <ol>
+    <li>Is the SDK still supported and updated relatively regularly </li>
+<li>Does the SDK provide most of the tools necessary to build and run the game with minimal setup effort </li>
+<li>Does the SDK provide the control necessary to restructure how game-critical information is delivered to the player</li>
+    </ol>
 </ol>
 I spent most of my time this week gaining familiarity with the engine and setting up an environment in which I can experiment with modifying the core functionality of the game. The project allows developers to create “mod overlays” in which they can modify existing standalone mods built on the OpenRA engine, and also gives developers full access to the OpenRA engine in which they can create their own classic 2D RTS. To gain familiarity with the overarching structure of the project, I walked through the project's basic modding tutorial (https://github.com/OpenRA/OpenRAModSDK/wiki/Getting-Started). Ultimately, I was able to successfully install and build the base game and the mod sdk, and was able to successfully build and run the modified version I had created with relative ease and few compatibility issues. 
 
