@@ -27,5 +27,5 @@ Monday, Feb 14th:
 <li><b>12:00-1:00am</b>: Download, setup environment for <a href="https://github.com/00-Evan/shattered-pixel-dungeon">Shattered Pixel Dungeon</a> open source game</li>
 <li><b>1:00-1:30am</b>: 1am Snack Break</li>
 <li><b>1:30-2:30am</b>: Read about <a href="https://freetts.sourceforge.io/">Java FreeTTS</a> experiment with integrating into Shattered Pixel Dungeon Mod</li>
-
+<li><b>11:00-11:59am</b>:Experiment with integrating FreeTTS into Shattered Pixel Dungeon Mod</li>
 </ul>
