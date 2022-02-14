@@ -6,6 +6,7 @@ Saturday, Feb 12th:
 <ul>
 <li><b>8:00-9:00pm</b>: Browse <a href="https://en.wikipedia.org/wiki/List_of_open-source_video_games">open source game listings</a> for candidate games</li>
 </ul>
+<br>
 <ul>
 Sunday, Feb 13th: 
 <li><b>12:30-1:30pm</b>: Continue Browsing for candidate games</li>
@@ -19,6 +20,7 @@ Sunday, Feb 13th:
 <li><b>Direction Shift</b>
 <li><b>10:00:11:59pm</b>: Download, setup environment for <a href="https://github.com/00-Evan/shattered-pixel-dungeon">Shattered Pixel Dungeon</a> open source game</li>
 </ul>
+<br>
 Monday, Feb 14th: 
 <ul>
 <li><b>12:00-1:00am</b>: Download, setup environment for <a href="https://github.com/00-Evan/shattered-pixel-dungeon">Shattered Pixel Dungeon</a> open source game</li>
