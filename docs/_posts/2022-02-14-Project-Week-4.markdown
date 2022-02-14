@@ -29,3 +29,12 @@ Monday, Feb 14th:
 <li><b>1:30-2:30am</b>: Read about <a href="https://freetts.sourceforge.io/">Java FreeTTS</a> experiment with integrating into Shattered Pixel Dungeon Mod</li>
 <li><b>11:00-11:59am</b>:Experiment with integrating FreeTTS into Shattered Pixel Dungeon Mod</li>
 </ul>
+
+
+<br>
+<br>
+Admittedly, this project is off to a slower start than I would like. As shown above, much of my work this week involved identifying candidate games to modify, reading documentation, doing some experimenting, and then ultimately changing directions when I discovered a roadblock that I had forgotten to consider (In this case, I had failed to consider that the developers of Factorio would place heavy restrictions on what your lua scripts in your custom mod can access, which, in hindsight, should have been obvious) - ultimately resulting in a lot of wasted time. I believe now that I have at least solidified the candidate game that I wish to modify for the remainder of this program - Shattered Pixel Dungeon. This game is an open source rogue-like RPG in which the player descends layers of a dungeon, while collecting items and slaying monsters. The game currently has little in the way of accessibility features for the visually impaired, and the game does not seem to work well with Android's "Talkback" functionality, as the buttons in the game UI become un-interactable, meaning players cannot even get past the primary menu screen. 
+
+Despite these issues, I feel that the game has a lot of potential. Almost every in-game event has some sort of text prompt included with it (see the image below), and players interact with the game only through screen taps (rather than virtual joysticks, buttons, etc). The game also has a sort of turn-based feel, where enemies only move if the player moves, and combat happens by trading actions between the player and the enemy. I believe that with some work, all of the game-critical information for Shattered-Pixel-Dungeon can be communicated audially, and I plan to spend the remainder of this project implementing an interface that allows players to retireve the game information they want, and input a desired action. 
+
+<img style="width:100%" src="https://github.com/atjohans/Project-Apricate/blob/gh-pages/assets/images/shatteredPixelSampleScreen.JPG?raw=true">
