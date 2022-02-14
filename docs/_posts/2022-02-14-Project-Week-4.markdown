@@ -18,7 +18,7 @@ Sunday, Feb 13th:
 <li><b>4:30-5:30pm</b>: Skim the <a href="https://lua-api.factorio.com/next/">Factorio Modding API</a></li>
 <li><b>5:30-7:30pm</b>: Download and review <a href="https://mods.factorio.com/">existing Factorio Mods</a> for examples </li>
 <li><b>7:30-10:00pm</b>: Work through implementation of basic modding components, experiment with the system to gain familiarity <br>  Read about <a href ="https://github.com/festvox/flite">festival lite (FLITE)</a>, CMU's Speech Synthesis System, download and compile source</li>
-<li><b>Direction Shift</b>
+ <li><b>Direction Shift</b></li>
 <li><b>10:00:11:59pm</b>: Download, setup environment for <a href="https://github.com/00-Evan/shattered-pixel-dungeon">Shattered Pixel Dungeon</a> open source game</li>
 </ul>
 <br>
