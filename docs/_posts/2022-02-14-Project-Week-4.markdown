@@ -1,7 +1,9 @@
 Week 4's goals consisted of solidifying my choice og game to modify. This involved browsing for new candidate games, briefly playing those I was unfamiliar with, and (mostly) reading documentation regarding the source code or modding APIs of the game. 
 <br> 
-Week 4 Timeline: 
 <br>
+<i>Week 4 Timeline</i>: 
+<br>
+
 Saturday, Feb 12th: 
 <ul>
 <li><b>8:00-9:00pm</b>: Browse <a href="https://en.wikipedia.org/wiki/List_of_open-source_video_games">open source game listings</a> for candidate games</li>
