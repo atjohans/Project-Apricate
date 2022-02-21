@@ -14,7 +14,7 @@ Sunday, Feb 20th:
 <li><b>5:30-11:59pm</b>: 
     <ol>
       <li>Fix dependency resolution error: (Duplicate class de.dfki.lt.freetts.mbrola.MbrolaAudioOutput found in modules freetts (freetts.jar) and mbrola (mbrola.jar)) </li>
-      <li>Fix Explore solutions for integrating Free-TTS to Android build of the game </li>
+      <li>Explore solutions for integrating Free-TTS to Android build of the game </li>
       <li>Work on building interface that allows for easy message calling from any core file of the game source (TTS Manager Class)</li>
   </ol>
   
