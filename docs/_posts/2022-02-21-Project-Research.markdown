@@ -24,7 +24,8 @@ Sunday, Feb 20th:
 Monday, Feb 21st: 
 <ul>
 <li><b>12:00-1:45am</b>: Implement alternate (non Java Free-TTS) text-to-speech solution for android build, as android java environment does not support core libraries of Free TTS</li>
-<li><b>1:45-3:45am</b>:
+ <li><b>1:45-2:15am</b>: Break for Ramen</li> 
+<li><b>2:15-3:45am</b>:
   <ol>
     <li>Read documentation on Android TextToSpeech library, begin implementation of TTSManager class for Android platform</li>
     <li>Begin implementation of event dispatch system that allows for sending messages to the speech event handler, regardless of build platform</li>
