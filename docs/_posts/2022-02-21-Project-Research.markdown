@@ -1,5 +1,5 @@
 
-Week 4's goals consisted of solidifying my choice og game to modify. This involved browsing for new candidate games, briefly playing those I was unfamiliar with, and (mostly) reading documentation regarding the source code or modding APIs of the game. 
+This week involved a lot more documentation reading. The primary goal of this week was to build a TTS engine that would allow me to easily communicate chosen audio to the player by simply sending messages from an event dispatcher to an event listener. With this tool in place, I can begin to build the actual user interface that allows players to retrieve chosen information, and I can begin to modify the games flow to better work with this system. A good portion of the time spent this week was ensuring that this event dispatch system was compatible with both the desktop and android builds of the game - this required some creative thinking given that both the TTS Engines used were not built with cross-compatibility in mind. 
 <br> 
 <br>
 <i>Week 5 Timeline</i>: 
