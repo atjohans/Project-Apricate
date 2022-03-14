@@ -33,4 +33,10 @@ Sunday, Mar 13th:
   <ul>
   <li><b>12:00-12:30am</b>: Continue translating controls to voice commands - fix infinite loop in voice recognition state machine</li>
   </ul>
-<p></p>
+  <br>
+<p>The primary goal for this week was to build the core of the new UI that would replace the existing UI. To do so, a speech recognition system was integrated into the game engine to allow playes to provide input to the game via voice commands. This, coupled with the speech synthesis engine integrated into the game engine earlier, will provide most of the input and information retrieval systems for the game. While a good portion of the game is playable with the curent state of the voice command system, the voice commands are not very "intelligent". Players currently have to repeat commands several times to accomplish something that can be done in the base game with a single tap. Additionally, much of the information provided to the player in the current state is very general, and is not adequate on its own to fully replace the visual information of the game. The next phase of the project will involve augmenting the ifnor retrieval and input systems to make them more "intelligent" - making inputs more intuitive, making information more precise, etc. I expect this phase will rely heavily on user feedback and playtests, especially from those who have not yet played the base game. </p>
+
+<br> 
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1AezYvpx29veXJGiDa1QLWTaIubLSx-fP/view?usp=sharing"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
