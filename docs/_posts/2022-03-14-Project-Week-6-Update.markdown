@@ -38,5 +38,9 @@ Sunday, Mar 13th:
 
 <br> 
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1AezYvpx29veXJGiDa1QLWTaIubLSx-fP/view?usp=sharing"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A brief example of base gameplay can be found <a href = "https://drive.google.com/file/d/1AezYvpx29veXJGiDa1QLWTaIubLSx-fP/view?usp=sharing">here</a>
+
+<br>
+
+Examples of the voice-controlled game can be found <a href = "https://drive.google.com/file/d/1A_ltGtaupQk9i2Vlj2ypoJXVm26IRxhH/view?usp=sharing">here</a> and <a href="https://drive.google.com/file/d/1AZWrSQRApagEQ2i5ZgT52sd473jOaiK3/view?usp=sharing">here</a>
 
