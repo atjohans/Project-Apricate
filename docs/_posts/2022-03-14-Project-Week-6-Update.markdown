@@ -1,7 +1,7 @@
 <h1>Project Week 6</h1>
 
 <video width="320" height="240" controls>
-  <source type="video/mp4" src="https://github.com/atjohans/Project-Apricate/blob/gh-pages/assets/videos/base_gameplay.mp4">
+  <source type="video/mp4" src="https://drive.google.com/file/d/1AezYvpx29veXJGiDa1QLWTaIubLSx-fP/view?usp=sharing">
 </video>
 
 <video width="320" height="200" src="https://github.com/atjohans/Project-Apricate/blob/gh-pages/assets/videos/base_gameplay.mp4" type="video/mp4"></video>
