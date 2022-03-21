@@ -24,7 +24,8 @@ Sunday, Mar 20th:
 <br>
 Monday, Mar 21st: 
 <ul>
-  <li><b>11:00am</b>: Start working for the day</li>
+  <li><b>12:00am</b>: Start working for the day</li>
+  <li><b>12:00am-2:30pm</b>: Work on system that maps processed command input to game actions</li>
   <li><b>11:00am-1:00pm</b>: Implement system that attempts to determine direction of game object from player voice command</li>
    <li><b>3:00pm-4:00pm</b>: Run through a few game scenarios, attempt to find bugs or areas where the voice recognition mapping does not do well</li>
  </ul>
