@@ -50,6 +50,5 @@ View an example of how my intention can still be understood even when I hesitate
   
   
   
- https://drive.google.com/file/d/1CShvnTO7YWxvWIXHjYTsD4-C2fyxAksg/view?usp=sharing
   
 
