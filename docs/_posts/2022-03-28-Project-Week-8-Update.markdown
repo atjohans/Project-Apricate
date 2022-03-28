@@ -20,7 +20,7 @@ Monday, Mar 28th:
 <ul>
   <li><b>12:30am</b>: Start working for the day</li>
   <li><b>12:30am-3:00am</b>: Add grab item action</li>
-  <li><b>11:00am-1:00pm</b>: Add system taht tells user when enemies appear without prompting</li>
+  <li><b>11:00am-1:00pm</b>: Add system that tells user when enemies appear without prompting</li>
    <li><b>3:30pm-5:00pm</b>: Work on double click to repeat (currently only works for attacking) </li>
  </ul>
  <br>
