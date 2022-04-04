@@ -38,7 +38,7 @@ Monday, Apr 4th:
  
  After several playthroughs this week using the voice interface, it became apparent that some quality of gameplay improvements needed to be made. The relatively low accuracy of phone TTS engines made voice-to-move commands 
  rather frustrating. Thus, a "swipe to move" command was added to help minimize the number of voice commands the player has to use. I found that this speeds up gameplay <b>significantly</b> and allows for a level-runthrough 
- at a speed comparable to the base game. Along these same lines, I went back and improved my command mapping system in order to take a "best match" approach, rather 
+ at a speed that is more comparable to the base game. Along these same lines, I went back and improved my command mapping system in order to take a "best match" approach, rather 
  than just defaulting to the first instance of a gameobject mentioned in a command. Thus, if the player says "stone of aggression", rather than simply "stone", the game
  is able to differentiate and find the best match that is present in the game, rather than just grabbing the first gameobject with the word "stone" available. This has greatly improved the accuracy 
  of the voice command system. Additionally, other gameplay commands were mapped to voice input, and the player can now equip items, unequip items, throw potions, drop items, eat food, drink potions, rest, search, 
@@ -48,4 +48,4 @@ Monday, Apr 4th:
 <br> 
 View a runthrough of the base game <a href = "https://drive.google.com/file/d/1G2RLCPzW5O4GYaL6r_g1ElElxxEI7o3V/view?usp=sharing">here</a>
 <br>
-View a (mostly) visual-less runthrough of the game <a href="https://drive.google.com/file/d/1G3kWPCpQ3XD8_gg4XeJ7EkbLkHpr_ZwE/view?usp=sharing">here</a>. In a few occassions, such as when resting, I was forced to look at the screen to verify that the command went through. This indicates that the in-game feedback for some commands needs some work, and this will be prioritized in the upcoming week.
+View a (mostly) visual-less runthrough of the game <a href="">here</a>. In a few occassions, such as when resting, I was forced to look at the screen to verify that the command went through. This indicates that the in-game feedback for some commands needs some work, and this will be prioritized in the upcoming week.
