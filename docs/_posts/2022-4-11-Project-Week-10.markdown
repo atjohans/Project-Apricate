@@ -7,8 +7,8 @@ Friday, Apr 8th:
 <ul>
   <li><b>1:30pm</b>: Start working for the day</li>
   <li><b>1:30pm-6:00pm</b>: Work on creating new container class to replace in game menus with a visual-less alternative</li>
-  <li><b>7:30pm-9:00pm</b>: Add the container class to the title menu, settigns menu and badges menu</li>
-  <li><b>11:00pm-12:30am</b>: Add the container class to the title menu, settigns menu and badges menu<</li>
+  <li><b>7:30pm-9:00pm</b>: Add the container class to the title menu, settings menu and badges menu</li>
+  <li><b>11:00pm-12:30am</b>: Add the container class to the title menu, settings menu and badges menu<</li>
  
 </ul>
 <br>
