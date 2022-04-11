@@ -21,8 +21,8 @@ Saturday, Apr 9th:
 <br>
 Sunday, Apr 10th: 
 <ul>
-  <li><b>1:30pmam</b>: Start working for the day</li>
-  <li><b>1:30am-3:00am</b>: Add "additional information" option to speech recognizer for events like throwing that allows users to select a target via voice without stating the entire command over again </li>
+  <li><b>1:30pm</b>: Start working for the day</li>
+  <li><b>1:30pm-3:00pm</b>: Add "additional information" option to speech recognizer for events like throwing that allows users to select a target via voice without stating the entire command over again </li>
   <li><b>5:00pm-7:00pm</b>: Add "additional information" option to speech recognizer for events like throwing that allows users to select a target via voice without stating the entire command over again</li>
   <li><b>8:00pm-2:00am</b>: Add support for shooting MageStaff and SpiritBow</li>
 </ul>
