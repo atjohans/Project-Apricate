@@ -51,4 +51,3 @@ View an example of the base-game inerface <a href="https://drive.google.com/file
 <br>
 View an example of the new audio-based menu navigation <a href="https://drive.google.com/file/d/1ItwP1-yPCv7jqQ3UEzMXz_pm82X9CHPP/view?usp=sharing">here</a>
 <br>
-View a short runthrough of some of this week's other features <a href="">here</a>
